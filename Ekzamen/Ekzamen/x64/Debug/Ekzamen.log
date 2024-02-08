@@ -1,0 +1,3 @@
+﻿  Ekzamen.cpp
+C:\Users\Егор\source\repos\Ekzamen\Ekzamen\Ekzamen.cpp(25,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Ekzamen.vcxproj -> C:\Users\Егор\source\repos\Ekzamen\x64\Debug\Ekzamen.exe
