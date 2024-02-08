@@ -1,0 +1,4 @@
+﻿  HW1.cpp
+C:\Users\Егор\source\repos\HW1\HW1\HW1.cpp(77,7): warning C4101: prav: неиспользованная локальная переменная
+C:\Users\Егор\source\repos\HW1\HW1\HW1.cpp(101,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  HW1.vcxproj -> C:\Users\Егор\source\repos\HW1\x64\Debug\HW1.exe
